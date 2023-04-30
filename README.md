@@ -1,1 +1,1 @@
-# first-repo
+# dice-challenge
